@@ -1,3 +1,5 @@
-Welcome, {"placeholder":"playername"} to the ZenMC modpack!
+Welcome to the ZenMC modpack!
 
 No updates to show.
+
+12/27/23
